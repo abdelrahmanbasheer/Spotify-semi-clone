@@ -12,7 +12,7 @@ import { HeartIcon } from '@heroicons/react/solid'
 import {signOut, useSession} from "next-auth/react"
 import useSpotify from "../hooks/useSpotify"
 import { useRecoilState } from 'recoil';
-import {playlistIdState} from "../atoms/playlistatom"
+import {playlistIdState} from "../atoms/playlistAtom"
 
 function Sidebar() {
   const spotifyApi=useSpotify();
