@@ -3,7 +3,7 @@ import { useSession } from 'next-auth/react'
 import React, { useEffect, useState } from 'react'
 import {shuffle} from "lodash"
 import { useRecoilState, useRecoilValue } from 'recoil';
-import { playlistIdState,playlistState } from '../atoms/playlistAtom';
+import { playlistIdState,playlistState } from '../atoms/playlistatom';
 import useSpotify from '../hooks/useSpotify';
 import Songs from "../components/Songs"
 const colors = [
