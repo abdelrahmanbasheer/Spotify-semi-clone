@@ -5,5 +5,4 @@ all the buttons on the player part are functional and connected to the api
 for a detailed preview video have a look at this quick 1 minute video 
 
 
-https://user-images.githubusercontent.com/98246917/184152595-a91cbc68-653d-4434-bb50-e7b72fbff5f1.mp4
 
